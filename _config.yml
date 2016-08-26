@@ -1,4 +1,3 @@
-layout_spectrum: 0.8397365377750248
 typography_spectrum: 0.34183496702462435
 color:
   brandStrength: 0.3789203059859574
@@ -6,9 +5,11 @@ color:
   saturation: 0.4095694273710251
   rhythmicContrast: 0.6005398787092417
   brandColors:
-    - '#1A1F2B'
-    - '#30395C'
-    - '#4A6491'
-    - '#85A5CC'
-    - '#D0E4F2'
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+layout_spectrum: 0.8397365377750248
 name: hmejia
+title: HM
