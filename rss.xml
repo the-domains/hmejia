@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Hector Mejia]]></title>
+        <description><![CDATA[Hector Mejia]]></description>
+        <link>https://thegrid.ai/hmejia/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 26 Aug 2016 09:41:24 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/hmejia/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Min Kompis - Hector Mejia]]></title>
+            <description><![CDATA[<article><h1>Min Kompis - Hector Mejia</h1><p>This project was part of the GE Makeathon challenge on Early health and the physical environment hosted by GE and FabLab in Sliperiet in Umeå (Sweden). Working with fellow Interaction Design students Lene Rydningen and Akansha Aggarwal the project was the winner of the challenge.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2b4212da9ea0c845e666a9ecde3375b5/noop.jpg?input=http%3A%2F%2Fhmejia.com%2Fwp-content%2Fuploads%2F2016%2F04%2Fmin-kompis.jpg"></article>]]></description>
+            <link>http://hmejia.com/work/min-kompis/</link>
+            <guid isPermaLink="false">a403e997-6120-490c-b412-8e813279a77e</guid>
+            <pubDate>Fri, 26 Aug 2016 09:41:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ploppi's Bakery - Hector Mejia]]></title>
+            <description><![CDATA[<article><h1>Ploppi's Bakery - Hector Mejia</h1><p>Ploppi's Bakery is a kit that consist of a semi-interactive plushie monster (Ploppi) that the child can feed cookies as a reward for completing speech tasks in an application controlled by a parent and modified by the speech therapist. Is an extension tool that allows the child to continue his speech therapy at home.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9dcaa610fa2c05eb1132befe114eec02/noop.jpg?input=http%3A%2F%2Fhmejia.com%2Fwp-content%2Fuploads%2F2016%2F04%2FPloppisBakery.jpg"></article>]]></description>
+            <link>http://hmejia.com/work/ploppis-bakery/</link>
+            <guid isPermaLink="false">af04cabf-0cc5-4f2a-8e09-4d0862bfe473</guid>
+            <pubDate>Fri, 26 Aug 2016 09:41:19 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
