@@ -1,16 +1,16 @@
-layout_spectrum: 0.6818429939448833
-typography_spectrum: 0.8099772983696312
+layout_spectrum: 0.19236108381301165
+typography_spectrum: 0.37721677613444626
 color:
-  brandStrength: 0.8933360178489238
-  lightness: 0.8871073089540005
-  saturation: 0.66272217547521
-  rhythmicContrast: 0.08072645170614123
+  brandStrength: 0.1947386886458844
+  lightness: 0.13375531136989594
+  saturation: 0.44503740943036973
+  rhythmicContrast: 0.7939744081813842
   brandColors:
-    - '#F2385A'
-    - '#F5A503'
-    - '#E9F1DF'
-    - '#4AD9D9'
-    - '#36B1BF'
+    - '#FF6138'
+    - '#FFFF9D'
+    - '#BEEB9F'
+    - '#79BD8F'
+    - '#00A388'
 name: hmejia
 title: Hector Mejia
 description: Interaction Researcher
