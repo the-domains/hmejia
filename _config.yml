@@ -1,3 +1,4 @@
+layout_spectrum: 0.8397365377750248
 typography_spectrum: 0.34183496702462435
 color:
   brandStrength: 0.3789203059859574
@@ -10,7 +11,4 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-layout_spectrum: 0.8397365377750248
 name: hmejia
-title: Hector Mejia
-description: Interaction Researcher
