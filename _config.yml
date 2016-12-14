@@ -1,16 +1,28 @@
-layout_spectrum: 0.19236108381301165
-typography_spectrum: 0.37721677613444626
+typography_spectrum: 0.5371643634934421
 color:
-  brandStrength: 0.1947386886458844
-  lightness: 0.13375531136989594
-  saturation: 0.44503740943036973
-  rhythmicContrast: 0.7939744081813842
+  brandStrength: 0.4448151622194391
+  lightness: 0.6081839722069441
+  saturation: 0.21127835759413566
+  rhythmicContrast: 0.8369566982761394
   brandColors:
-    - '#FF6138'
-    - '#FFFF9D'
-    - '#BEEB9F'
-    - '#79BD8F'
-    - '#00A388'
+    - '#63A69F'
+    - '#F2E1AC'
+    - '#F2836B'
+    - '#F2594B'
+    - '#CD2C24'
+github: true
+layout_spectrum: 0.006009578465087579
+analytics:
+  google: UA-45947854-4
+author:
+  name: Hector Mejia
+  email: hectorjaime.mejia@gmail.com
+  url: hmejia.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/57bfc3a0-a348-4b38-8062-6084c44cc6b3.png
 name: hmejia
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/930fd71f-a9cf-4d86-b9c8-49ee816efbcf.png
 title: Hector Mejia
+content: []
 description: Interaction Researcher
