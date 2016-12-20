@@ -2,10 +2,25 @@
     <channel>
         <title><![CDATA[Hector Mejia]]></title>
         <description><![CDATA[Hector Mejia]]></description>
-        <link>https://thegrid.ai/hmejia/</link>
+        <link>http://hmejia.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 26 Aug 2016 09:41:28 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/hmejia/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 20 Dec 2016 16:55:51 GMT</lastBuildDate>
+        <atom:link href="http://hmejia.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Tue, 20 Dec 2016 16:55:50 GMT</pubDate>
+        <item>
+            <title><![CDATA[Ploppi's Bakery]]></title>
+            <description><![CDATA[<article><h1>Ploppi's Bakery</h1><p>Speech is something which normally develops within the first 3 years of one's life. Sometimes this development is significantly delayed and underdeveloped. When a speech disorder is identified it is important to address the disorder as soon as possible, preferably when the child is between 4 to 6 years old.</p></article>]]></description>
+            <link>https://medium.com/@hectormejia/ploppis-bakery-a9004f5e2278#.9ry1rj8zl</link>
+            <guid isPermaLink="false">8d6b4934-665d-47dd-80ad-de08e4a29c5a</guid>
+            <pubDate>Tue, 20 Dec 2016 16:55:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MindReconstructor]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4477106b-f2aa-413b-a094-f62b6b206382.jpg">]]></description>
+            <link>https://vimeo.com/181652626</link>
+            <guid isPermaLink="false">2d0c9294-204c-44f3-843b-f2e9230749c1</guid>
+            <pubDate>Tue, 13 Sep 2016 12:26:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Automated Mining Interface - Hector Mejia]]></title>
             <description><![CDATA[<article><h1>Automated Mining Interface - Hector Mejia</h1><p>This project is part of the course "Professional use" of the Master In Interaction Design (IxD) program in Umeå Institute of Design at Umeå University. Is a group project with fellows IxDs Shigeo Katsura-Gordon, Yi-Ting Chien and Siddharth Hirwani. Nowadays a stationary rock-breaker is used to break the large material into smaller pieces in mining operations.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/48e7780d26a220818b58c610adc0a785/noop.jpg?input=http%3A%2F%2Fhmejia.com%2Fwp-content%2Fuploads%2F2016%2F04%2FMining-Interface.jpg"></article>]]></description>
@@ -19,13 +34,6 @@
             <link>http://hmejia.com/work/min-kompis/</link>
             <guid isPermaLink="false">a403e997-6120-490c-b412-8e813279a77e</guid>
             <pubDate>Fri, 26 Aug 2016 09:41:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ploppi's Bakery - Hector Mejia]]></title>
-            <description><![CDATA[<article><h1>Ploppi's Bakery - Hector Mejia</h1><p>Ploppi's Bakery is a kit that consist of a semi-interactive plushie monster (Ploppi) that the child can feed cookies as a reward for completing speech tasks in an application controlled by a parent and modified by the speech therapist. Is an extension tool that allows the child to continue his speech therapy at home.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9dcaa610fa2c05eb1132befe114eec02/noop.jpg?input=http%3A%2F%2Fhmejia.com%2Fwp-content%2Fuploads%2F2016%2F04%2FPloppisBakery.jpg"></article>]]></description>
-            <link>http://hmejia.com/work/ploppis-bakery/</link>
-            <guid isPermaLink="false">af04cabf-0cc5-4f2a-8e09-4d0862bfe473</guid>
-            <pubDate>Fri, 26 Aug 2016 09:41:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
