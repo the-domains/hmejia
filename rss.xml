@@ -4,9 +4,9 @@
         <description><![CDATA[Hector Mejia]]></description>
         <link>http://hmejia.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 20 Dec 2016 17:34:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Dec 2016 17:34:57 GMT</lastBuildDate>
         <atom:link href="http://hmejia.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 20 Dec 2016 17:34:36 GMT</pubDate>
+        <pubDate>Tue, 20 Dec 2016 17:34:44 GMT</pubDate>
         <item>
             <title><![CDATA[Ploppi's Bakery]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/17c4436e-615a-40e0-b174-2324fe4f9149.jpg">]]></description>
@@ -20,13 +20,6 @@
             <link>https://vimeo.com/181652626</link>
             <guid isPermaLink="false">2d0c9294-204c-44f3-843b-f2e9230749c1</guid>
             <pubDate>Tue, 13 Sep 2016 12:26:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Min Kompis - Hector Mejia]]></title>
-            <description><![CDATA[<article><h1>Min Kompis - Hector Mejia</h1><p>This project was part of the GE Makeathon challenge on Early health and the physical environment hosted by GE and FabLab in Sliperiet in Umeå (Sweden). Working with fellow Interaction Design students Lene Rydningen and Akansha Aggarwal the project was the winner of the challenge.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2b4212da9ea0c845e666a9ecde3375b5/noop.jpg?input=http%3A%2F%2Fhmejia.com%2Fwp-content%2Fuploads%2F2016%2F04%2Fmin-kompis.jpg"></article>]]></description>
-            <link>http://hmejia.com/work/min-kompis/</link>
-            <guid isPermaLink="false">a403e997-6120-490c-b412-8e813279a77e</guid>
-            <pubDate>Fri, 26 Aug 2016 09:41:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
