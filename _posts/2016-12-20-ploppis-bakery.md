@@ -1,15 +1,7 @@
 ---
-author:
-  - name: Hector Mejia
-    url: 'https://medium.com/@hectormejia'
-    avatar: {}
+author: []
 related: []
-publisher:
-  url: 'https://medium.com'
-  name: Medium
-  favicon: >-
-    https://cdn-static-1.medium.com/_/fp/icons/favicon-medium.TAS6uQ-Y7kcKgi0xjcYHXw.ico
-  domain: medium.com
+publisher: {}
 keywords:
   - ploppi
   - child
@@ -21,11 +13,7 @@ keywords:
   - disorder
   - cookies
   - plushie
-description: >-
-  Speech is something which normally develops within the first 3 years of one's
-  life. Sometimes this development is significantly delayed and underdeveloped.
-  When a speech disorder is identified it is important to address the disorder
-  as soon as possible, preferably when the child is between 4 to 6 years old.
+description: ''
 inLanguage: en
 app_links:
   - type: android
@@ -52,9 +40,9 @@ app_links:
     package: com.medium.reader
     namespace: google
     type: android
-title: Ploppi's Bakery
-datePublished: '2016-12-20T17:39:00.488Z'
-dateModified: '2016-12-20T17:39:00.068Z'
+title: ''
+datePublished: '2016-12-20T17:40:15.369Z'
+dateModified: '2016-12-20T17:40:14.735Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-20-ploppis-bakery.md
@@ -66,6 +54,8 @@ _type: Article
 _context: 'http://schema.org'
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a56321c5-7234-4405-a2c8-9580dcf34255.jpg)
+
 <article style=""><h1>Ploppi's Bakery</h1><p>Speech is something which normally develops within the first 3 years of one's life. Sometimes this development is significantly delayed and underdeveloped. When a speech disorder is identified it is important to address the disorder as soon as possible, preferably when the child is between 4 to 6 years old.</p></article>
 
 ---
