@@ -53,8 +53,8 @@ app_links:
     namespace: google
     type: android
 title: Ploppi's Bakery
-datePublished: '2016-12-20T17:42:51.346Z'
-dateModified: '2016-12-20T17:42:50.872Z'
+datePublished: '2016-12-20T17:43:02.610Z'
+dateModified: '2016-12-20T17:43:01.974Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-20-ploppis-bakery.md
